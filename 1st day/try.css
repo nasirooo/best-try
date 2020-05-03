@@ -1,0 +1,19 @@
+#r{
+    color: blue;
+}
+#p{
+    width: 300px;
+    height: 300px;
+}
+.nx{
+    border: 5px solid chartreuse;
+    border-radius: 5px;
+    margin: 200px 30px;
+    margin-left: 50px;
+    padding: 2px;
+    width: 400px;
+    text-align: center;
+    text-align: justify;
+    display: inline-block;
+}
+
